@@ -1,3 +1,4 @@
 runs*
 weights*
 __pycache__
+.idea

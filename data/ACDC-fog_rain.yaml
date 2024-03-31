@@ -8,5 +8,5 @@ names:
   6: motorcycle
   7: bicycle
 path: G:/dataset/ACDC/YOLO
-train: train\night\images
-val: val\night\images
+train: train\fog_rain
+val: val\rain\images
